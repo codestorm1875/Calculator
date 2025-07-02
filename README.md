@@ -5,5 +5,5 @@ Operations:
 + Subtraction
 + Multiplication
 + Division
-+ Modulus
++ Modulus 
 + Exponential
