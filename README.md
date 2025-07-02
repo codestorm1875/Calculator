@@ -11,5 +11,5 @@ Operations:
 
 # Screenshots
 <p align="center">
-  <img src="images/calculator_screenshot.png" width="300" />
+  <img src="assets/images/calculator_screenshot.png" width="100%" />
 </p>
